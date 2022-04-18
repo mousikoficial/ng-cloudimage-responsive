@@ -19,6 +19,7 @@
     "rxjs": "^6.5.2"
   },
   "dependencies": {
-    "ng-lazyload-image": "^7.0.1"
+    "ng-lazyload-image": "^7.0.1",
+    "tslib": "^2.0.0"
   }
 }
